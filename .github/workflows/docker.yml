@@ -19,7 +19,7 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
     - name: Build Docker image
-      run: docker build -t ereztzafar/aiforex:latest .
+      run: docker build -t EREZTZAFAR/aiforex:latest .
 
     - name: Push Docker image
-      run: docker push ereztzafar/aiforex:latest
+      run: docker push EREZTZAFAR/aiforex:latest
