@@ -1,0 +1,128 @@
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\fx.csv
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\SP500.csv
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\tase.csv
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.exe
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.deps.json
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.runtimeconfig.json
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.pdb
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\EPPlus.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\CSharpAPI.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Connection.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Factory.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\MarketData.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\TWSConnection.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.csproj.AssemblyReference.cache
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.AssemblyInfoInputs.cache
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.AssemblyInfo.cs
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.csproj.CoreCompileInputs.cache
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.csproj.CopyComplete
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\refint\AIFOREX.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.pdb
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.genruntimeconfig.cache
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\obj\Debug\net8.0\ref\AIFOREX.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EREZZ\OneDrive\שולחן העבודה\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\fx.csv
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\SP500.csv
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\tase.csv
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.exe
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.deps.json
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.runtimeconfig.json
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\AIFOREX.pdb
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\EPPlus.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\CSharpAPI.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Connection.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\Factory.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\MarketData.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\TWSConnection.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.csproj.AssemblyReference.cache
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.AssemblyInfoInputs.cache
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.AssemblyInfo.cs
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.csproj.CoreCompileInputs.cache
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.csproj.CopyComplete
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\refint\AIFOREX.dll
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.pdb
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\AIFOREX.genruntimeconfig.cache
+C:\Users\EREZZ\AIFOREX\AIFOREX\obj\Debug\net8.0\ref\AIFOREX.dll

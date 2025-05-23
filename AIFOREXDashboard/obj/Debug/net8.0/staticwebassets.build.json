@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rXN+GsGFb5y2YhhSY8aSPr8fqzH4LUWeuuxK3yCdSD8=",
+  "Source": "AIFOREXDashboard",
+  "BasePath": "_content/AIFOREXDashboard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AIFOREXDashboard\\wwwroot",
+      "Source": "AIFOREXDashboard",
+      "ContentRoot": "C:\\Users\\EREZZ\\OneDrive\\שולחן העבודה\\AIFOREX\\AIFOREXDashboard\\wwwroot\\",
+      "BasePath": "_content/AIFOREXDashboard",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\EREZZ\\OneDrive\\שולחן העבודה\\AIFOREX\\AIFOREXDashboard\\wwwroot\\dashboard.html",
+      "SourceId": "AIFOREXDashboard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EREZZ\\OneDrive\\שולחן העבודה\\AIFOREX\\AIFOREXDashboard\\wwwroot\\",
+      "BasePath": "_content/AIFOREXDashboard",
+      "RelativePath": "dashboard.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dashboard.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EREZZ\\OneDrive\\שולחן העבודה\\AIFOREX\\AIFOREXDashboard\\wwwroot\\dashboard.html",
+      "PackagePath": "staticwebassets\\dashboard.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AIFOREXDashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AIFOREXDashboard.props",
+      "PackagePath": "build\\AIFOREXDashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AIFOREXDashboard.props",
+      "PackagePath": "buildMultiTargeting\\AIFOREXDashboard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AIFOREXDashboard.props",
+      "PackagePath": "buildTransitive\\AIFOREXDashboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
